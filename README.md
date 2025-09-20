@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Hafiz Arham</h1>
-<h3 align="center">💻 Front-End Developer | 🎨 UI/UX Designer | 🖼️ Graphic Artist</h3>
-<p align="center">📍 Lahore, Pakistan | BSCS Student @ COMSATS</p>
+<h1>👋 Hi, I'm Hafiz Arham</h1>
+<h3>💻 Front-End Developer | 🎨 UI/UX Designer | 🖼️ Graphic Artist</h3>
+<p>📍 Lahore, Pakistan | BSCS Student @ COMSATS</p>
 
 ---
 
 ## 🔗 Quick Links
-<p align="center">
+<p>
   <a href="https://harham.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
@@ -83,3 +83,4 @@
 ---
 
 <p align="center"><em>“Good design is obvious. Great design is transparent.” – Joe Sparano</em></p>
+
