@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Hafiz Arham</h1>
-<h3 align="center">Front-End Developer · UI/UX Designer · Graphic Artist</h3>
-<p align="center">📍 Lahore, Pakistan · 🎓 BSCS Student @ COMSATS University</p>
+<h1>👋 Hi, I'm Hafiz Arham</h1>
+<h3>Front-End Developer · UI/UX Designer · Graphic Artist</h3>
+<p>📍 Lahore, Pakistan · 🎓 BSCS Student @ COMSATS University</p>
 
 ---
 
 ## 🌍 Connect with Me
-<p align="center">
+<p>
   <a href="https://harham.netlify.app"><img src="https://img.shields.io/badge/Portfolio-View-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/harham"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hafizarhammujahid71@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -79,3 +79,4 @@ I love working at the intersection of **technology (Java, Python, C++, React)** 
 ---
 
 <p align="center"><em>“Great design is achieved not when there is nothing more to add, but when there is nothing left to take away.”</em></p>
+
