@@ -3,9 +3,16 @@
 💻 **Front-End Developer | 🎨 UI/UX Designer | 🖼️ Certified Graphic Artist**  
 📍 Lahore, Pakistan  
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-harham.netlify.app-blue)](https://harham.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harham)  
-[![Email](https://img.shields.io/badge/Email-harham0210%40gmail.com-red)](mailto:harham0210@gmail.com)  
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-harham.netlify.app-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harham.netlify.app)  
+[![Dribbble](https://img.shields.io/badge/Dribbble-Arham71-FF69B4?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/Arham71)  
+[![Behance](https://img.shields.io/badge/Behance-Hafiz%20Arham-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hafizarham2)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-Gzqy3v3-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Gzqy3v3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harham)  
+[![Email](https://img.shields.io/badge/Email-hafizarhammujahid71%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizarhammujahid71@gmail.com)  
 
 ---
 
@@ -19,19 +26,16 @@ I combine strong coding skills in **Java, Python, C++**, and **JavaScript/React*
 
 ## 🛠️ Skills
 
-**Programming & Development**  
-- HTML5, CSS3 (95%)  
-- JavaScript (90%), React JS (75%)  
-- Python (80%)  
-- C/C++ (90%)  
-- Java (OOP & projects)  
+**💻 Programming & Development**  
+- HTML5, CSS3, JavaScript, React  
+- Python, Java, C/C++  
+- Git & GitHub, Firebase, Netlify  
 
-**Design & Tools**  
-- Figma (90%) | Adobe Illustrator (90%) | Adobe Photoshop (80%)  
-- Canva, Branding, Logo Design  
-- Netlify, Vercel, Firebase, VS Code  
+**🎨 Design Tools**  
+- Figma | Adobe Illustrator | Photoshop | Canva  
+- Branding, Logo Design, UI/UX Case Studies  
 
-**Soft Skills**  
+**🤝 Soft Skills**  
 - Creativity | Problem Solving | Attention to Detail  
 - Communication | Teaching | Time Management  
 
@@ -40,42 +44,32 @@ I combine strong coding skills in **Java, Python, C++**, and **JavaScript/React*
 ## 📂 Featured Projects
 
 ### 🔹 Software Development
-- **Student Record Management System (C++)**  
-  Console-based CRUD with CSV I/O, validation, and sorting.  
-- **GPA Calculator (C++)**  
-  Computes GPA with weighted assessments using COMSATS grading rules.  
-- **Banking System (Python)**  
-  Account creation, deposit, withdraw, and balance check via terminal.  
+- **Student Record Management System (C++)** – CRUD with file handling  
+- **GPA Calculator (C++)** – weighted GPA computation  
+- **Banking System (Java/Python)** – deposit, withdraw, check balance  
 
 ### 🔹 Web Development
-- **Hospital Management System (HTML, CSS, JS)**  
-  Single-page modern design with smooth animations and clean UX.  
-- **Netflix Landing Page Clone (HTML, CSS, JS)**  
-  Pixel-perfect responsive clone with animations.  
-- **Weather Web App (JS + API)**  
-  Real-time weather with city search (temperature, wind, humidity).  
-- **Educational Hub Website (React)**  
-  Interactive UI with responsive course sections and contact form.  
+- **Hospital Management System (HTML, CSS, JS)** – modern UI with sections  
+- **Portfolio Website (React/Netlify)** – personal brand, responsive  
+- **Weather Web App (JS + API)** – real-time weather updates  
 
 ### 🔹 Graphics & UI/UX
-- **50+ Logo Designs, Web Banners, and Social Media Posts**  
-  Strong visual hierarchy, branding, and color psychology.  
-- **Mobile App UI Designs (Figma)**  
-  Health status app, greeting screens, login/signup forms.  
+- **50+ Logo Designs & Branding Kits** – Behance & Dribbble showcase  
+- **Mobile App UI Designs (Figma)** – health apps, dashboards, onboarding screens  
+
+---
+
+## 📊 GitHub Stats
+![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arham71&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham71&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎓 Education
 - **BS Computer Science (2025–2029)** – COMSATS University, Lahore  
-- **Graphics & UI/UX Design Certificate (2024–2025, A+)** – TEVTA, Adobe Certified Professional  
+- **Graphics & UI/UX Certificate (A+)** – TEVTA, Adobe Certified Professional  
 - **Intermediate & Matric (A+)** – Lahore  
 
 ---
 
-## 📬 Connect
-- 🌐 Portfolio: [harham.netlify.app](https://harham.netlify.app)  
-- 📧 Email: [harham0210@gmail.com](mailto:harham0210@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/harham](https://www.linkedin.com/in/harham)  
-
----
 ✨ _“Design is not just what it looks like; design is how it works.”_ — Steve Jobs
