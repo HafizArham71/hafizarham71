@@ -1,76 +1,72 @@
-<h1>👋 Hi, I'm Hafiz Arham</h1>
-<h3>💻 Front-End Developer | 🎨 UI/UX Designer | 🖼️ Graphic Artist</h3>
-<p>📍 Lahore, Pakistan | BSCS Student @ COMSATS</p>
+<h1 align="center">👋 Hi, I'm Hafiz Arham</h1>
+<h3 align="center">Front-End Developer · UI/UX Designer · Graphic Artist</h3>
+<p align="center">📍 Lahore, Pakistan · 🎓 BSCS Student @ COMSATS University</p>
 
 ---
 
-## 🔗 Quick Links
-<p>
-  <a href="https://harham.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harham">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hafizarhammujahid71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://harham.netlify.app"><img src="https://img.shields.io/badge/Portfolio-View-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/harham"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hafizarhammujahid71@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <br/>
-  <a href="https://www.dribbble.com/Arham71">
-    <img src="https://img.shields.io/badge/Dribbble-Arham71-FF69B4?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-  </a>
-  <a href="https://www.behance.net/hafizarham2">
-    <img src="https://img.shields.io/badge/Behance-Hafiz%20Arham-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="https://www.fiverr.com/s/Gzqy3v3">
-    <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
+  <a href="https://www.dribbble.com/Arham71"><img src="https://img.shields.io/badge/Dribbble-Arham71-FF69B4?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
+  <a href="https://www.behance.net/hafizarham2"><img src="https://img.shields.io/badge/Behance-Hafiz%20Arham-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+  <a href="https://www.fiverr.com/s/Gzqy3v3"><img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌟 Passionate about crafting **clean, accessible, and modern UIs**.  
-- 🔧 Skilled in **Java, Python, C++, JavaScript, React**.  
-- 🎨 Adobe Certified in **Graphic Design & UI/UX** (Figma, Photoshop, Illustrator).  
-- 🧑‍🏫 Also teaching Quran with deep respect for traditional learning.  
-- 📚 Currently pursuing **BSCS (2025–2029)** at COMSATS University, Lahore.  
+I design and build **modern, accessible, and user-friendly digital products** by blending code with creativity.  
+I love working at the intersection of **technology (Java, Python, C++, React)** and **design (UI/UX, Branding, Graphics)**.  
+
+🎨 Adobe Certified Graphic Designer (Figma, Photoshop, Illustrator)  
+💡 Strong foundation in problem-solving, visual communication, and clean coding  
+📖 Also passionate about teaching and sharing knowledge  
 
 ---
 
-## 🛠️ Skills at a Glance
+## 🛠️ Skills Snapshot
 
-| Development | Design | Tools |
-|-------------|--------|-------|
-| HTML5, CSS3, JavaScript | Figma, Illustrator, Photoshop | Git & GitHub |
-| React, Firebase, Netlify | Branding, Logo Design | VS Code |
-| Java, Python, C++ | UI/UX Case Studies | Canva |
+### 💻 Development
+- **Languages:** Java, Python, C++, JavaScript  
+- **Front-End:** HTML5, CSS3, React  
+- **Hosting & Tools:** GitHub, Firebase, Netlify, VS Code  
+
+### 🎨 Design
+- Figma, Adobe Illustrator, Photoshop, Canva  
+- Branding · Logo Design · UI/UX Case Studies  
+
+### 🤝 Soft Skills
+- Creativity, Attention to Detail  
+- Communication, Teaching, Time Management  
 
 ---
 
-## 📂 Featured Work
+## 📂 Featured Projects
 
 ### 💻 Software Development
-- 🏦 **Banking System (Java/Python)** → deposit, withdraw, check balance  
-- 📊 **GPA & CGPA Calculator (C++)** → academic grading automation  
+- 🏦 **Banking System (Java/Python)** → deposit, withdraw, balance check  
+- 📊 **GPA & CGPA Calculator (C++)** → weighted grade calculation  
 - 📁 **Student Record Management (C++)** → CRUD with file persistence  
 
 ### 🌐 Web Development
-- 🏥 **Hospital Management Website (HTML, CSS, JS)** → doctor/patient flows  
-- 🎬 **Netflix Clone (HTML, CSS, JS)** → pixel-perfect responsive clone  
-- ☁️ **Weather App (JS + API)** → live weather data with search  
+- 🏥 **Hospital Management Website (HTML, CSS, JS)** → doctor & patient flows  
+- 🎬 **Netflix Clone (HTML, CSS, JS)** → responsive pixel-perfect design  
+- ☁️ **Weather Web App (JS + API)** → real-time weather updates  
 
 ### 🎨 UI/UX & Graphics
-- ✍️ **50+ Logo Designs** (Behance & Dribbble showcase)  
-- 📱 **Mobile App UI Designs** → onboarding, dashboards, health apps  
-- 🖼️ **Posters, Social Media Kits, Branding Assets**  
+- ✍️ **50+ Logo Designs & Branding Kits** → showcased on Behance & Dribbble  
+- 📱 **Mobile App UI Designs (Figma)** → health dashboards, onboarding flows  
+- 🖼️ **Posters & Social Media Kits** → marketing and branding assets  
 
 ---
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arham71&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham71&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arham71&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham71&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
 </p>
 
 ---
@@ -82,5 +78,4 @@
 
 ---
 
-<p align="center"><em>“Good design is obvious. Great design is transparent.” – Joe Sparano</em></p>
-
+<p align="center"><em>“Great design is achieved not when there is nothing more to add, but when there is nothing left to take away.”</em></p>
