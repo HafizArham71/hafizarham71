@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg" alt="Cover" width="100%" height="100%">
+  </a>
+</div>
+<br>
+
 <h1>👋 Hi, I'm Hafiz Arham</h1>
 <h3>Front-End Developer · UI/UX Designer · Graphic Artist</h3>
 <p>📍 Lahore, Pakistan · 🎓 BSCS Student @ COMSATS University</p>
@@ -79,4 +86,5 @@ I love working at the intersection of **technology (Java, Python, C++, React)** 
 ---
 
 <p align="center"><em>“Great design is achieved not when there is nothing more to add, but when there is nothing left to take away.”</em></p>
+
 
