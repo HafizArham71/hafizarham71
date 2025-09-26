@@ -37,12 +37,12 @@ I love working at the intersection of **technology (Java, Python, C++, React)** 
 ## 🛠️ Skills Snapshot
 
 ### 💻 Development
-- **Languages:** Java, Python, C++, JavaScript  
-- **Front-End:** HTML5, CSS3, React  
-- **Hosting & Tools:** GitHub, Firebase, Netlify, VS Code  
+- **Languages:** Java, Python, C++, JavaScript, C 
+- **Front-End:** HTML5, CSS3, React, SEO
+- **Hosting & Tools:** GitHub, Firebase, Netlify, VS Code, Vercel App
 
 ### 🎨 Design
-- Figma, Adobe Illustrator, Photoshop, Canva  
+- Figma, Adobe Illustrator, Photoshop, Canva, Adobe XD 
 - Branding · Logo Design · UI/UX Case Studies  
 
 ### 🤝 Soft Skills
@@ -86,5 +86,6 @@ I love working at the intersection of **technology (Java, Python, C++, React)** 
 ---
 
 <p align="center"><em>“Great design is achieved not when there is nothing more to add, but when there is nothing left to take away.”</em></p>
+
 
 
