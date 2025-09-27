@@ -113,7 +113,7 @@ git stash pop
     Bring back last stashed changes.
 
 
-UNDO / REWRITE
+UNDO CHANGES / REWRITE
 --------------------------------
 git reset --hard [commit]   
     Reset project to a specific commit (WARNING: deletes uncommitted changes).
