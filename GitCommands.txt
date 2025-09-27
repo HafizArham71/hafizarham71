@@ -1,0 +1,128 @@
+==============================
+ GIT CHEAT SHEET (Quick Notes)
+==============================
+
+SETUP
+--------------------------------
+git config --global user.name "Your Name"   
+    Set your username (for all projects).
+
+git config --global user.email "you@example.com"   
+    Set your email (linked with commits).
+
+
+INITIALIZE & CLONE
+--------------------------------
+git init   
+    Start a new Git repository in current folder.
+
+git clone [url]   
+    Download a repo from GitHub (or any remote).
+
+
+STAGING & COMMITTING
+--------------------------------
+git status   
+    Check what’s changed and staged.
+
+git add [file]   
+    Stage a file for commit.
+
+git add .   
+    Stage ALL changes.
+
+git reset [file]   
+    Unstage a file (keep changes).
+
+git commit -m "message"   
+    Save staged changes permanently (with a message).
+
+
+BRANCHING & SWITCHING
+--------------------------------
+git branch   
+    List all branches ( * shows current branch).
+
+git branch [branch-name]   
+    Create a new branch.
+
+git checkout [branch]   
+    Switch to another branch.
+
+git checkout -b [branch]   
+    Create and switch to a new branch (shortcut).
+
+git merge [branch]   
+    Merge another branch into the current one.
+
+
+UPDATE & SHARE (REMOTE)
+--------------------------------
+git remote add origin [url]   
+    Connect local repo to GitHub.
+
+git push -u origin [branch]   
+    Upload commits to GitHub (first time).
+
+git push   
+    Upload commits to GitHub (next times).
+
+git pull   
+    Get latest changes from GitHub and merge them.
+
+git fetch   
+    Download changes but don’t merge yet.
+
+
+FILE CHANGES
+--------------------------------
+git rm [file]   
+    Delete a file and stage removal.
+
+git mv [old] [new]   
+    Rename or move a file.
+
+
+LOGS & HISTORY
+--------------------------------
+git log   
+    Show commit history.
+
+git log --oneline   
+    Compact history view.
+
+git diff   
+    Show changes not staged.
+
+git diff --staged   
+    Show staged but not committed changes.
+
+git show [commit-id]   
+    Show details of a specific commit.
+
+
+TEMPORARY WORK
+--------------------------------
+git stash   
+    Save uncommitted changes temporarily.
+
+git stash list   
+    See all stashes.
+
+git stash pop   
+    Bring back last stashed changes.
+
+
+UNDO / REWRITE
+--------------------------------
+git reset --hard [commit]   
+    Reset project to a specific commit (WARNING: deletes uncommitted changes).
+
+git checkout -- [file]   
+    Discard local changes in a file.
+
+
+IGNORE FILES
+--------------------------------
+Create a .gitignore file   
+    List files/folders Git should ignore (e.g., node_modules/).
