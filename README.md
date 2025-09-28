@@ -26,9 +26,9 @@
 
 ## 🚀 About Me
 I design and build **modern, accessible, and user-friendly digital products** by blending code with creativity.  
-I love working at the intersection of **technology (Java, Python, C++, React)** and **design (UI/UX, Branding, Graphics)**.  
+I love working at the intersection of **technology (Java, Python, C++, React, C)** and **design (UI/UX, Branding, Graphics)**.  
 
-🎨 Adobe Certified Graphic Designer (Figma, Photoshop, Illustrator)  
+🎨 Adobe Certified Graphic Designer (Figma, Photoshop, Illustrator, Adobe XD)  
 💡 Strong foundation in problem-solving, visual communication, and clean coding  
 📖 Also passionate about teaching and sharing knowledge  
 
@@ -39,7 +39,7 @@ I love working at the intersection of **technology (Java, Python, C++, React)** 
 ### 💻 Development
 - **Languages:** Java, Python, C++, JavaScript, C 
 - **Front-End:** HTML5, CSS3, React, SEO
-- **Hosting & Tools:** GitHub, Firebase, Netlify, VS Code, Vercel App
+- **Hosting & Tools:** Git, GitHub, Firebase, Netlify, VS Code, Vercel App
 
 ### 🎨 Design
 - Figma, Adobe Illustrator, Photoshop, Canva, Adobe XD 
